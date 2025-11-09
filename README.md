@@ -1,6 +1,6 @@
 # Portfolio
 
-> Applying structured thinking and technology to solve real-world problems—skills that transfer directly to business and consulting environments.
+> Applying structured thinking and technology to solve real-world problems—skills that transfer directly to business environments.
 
 ---
 
