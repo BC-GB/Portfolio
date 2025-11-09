@@ -12,7 +12,7 @@
 
 ## Projects
 
-### [Personal Budgeting & Forecasting]
+### Personal Budgeting & Forecasting
 
 <img width="1920" alt="Financial Dashboard" src="https://github.com/user-attachments/assets/4795d256-e337-4399-aa41-4774c99e0f04">
 
@@ -32,7 +32,7 @@
 
 ---
 
-### [Screener-Tracker]
+### Screener-Tracker
 
 <img width="1920" height="1080" alt="Stock Screener Dashboard" src="https://github.com/user-attachments/assets/3442eee0-b2a9-4529-96bf-eef893b02b6e" />
 
@@ -46,7 +46,7 @@
 
 ---
 
-### [Exam Study Tracker]
+### Exam Study Tracker
 
 <img width="1920" alt="Study Dashboard" src="https://github.com/user-attachments/assets/889662bb-244f-498a-a629-787c76009187">
 
