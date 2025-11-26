@@ -20,7 +20,10 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5195353f-b6eb-4ab6-9445-6dca1b434667" alt="Untitled video - Made with Clipchamp (2)" width="1920"/>
+  <video width="100%" controls>
+    <source src="./ai-parse-receipts-demo.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
   <br/>
   <sub><b>AI feature that transforms raw text into structured data, enabling automated parsing of receipts and shopping carts.</b></sub>
 </div>
