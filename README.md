@@ -23,7 +23,7 @@ I built a system designed for seamless tracking and better decision-making. It u
 
 
 <div align="center">
-  <a href="./ai-parse-receipts-demo-compressed.mp4">
+  <a href="https://github.com/BC-GB/Project-Portfolio/blob/main/ai-parse-receipts-demo-compressed.mp4">
     <img src="https://github.com/user-attachments/assets/5195353f-b6eb-4ab6-9445-6dca1b434667" alt="Click to play AI parsing demo video" width="100%" />
   </a>
   <br/>
