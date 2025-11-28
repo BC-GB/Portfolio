@@ -27,8 +27,7 @@ I built a system designed for seamless tracking and better decision-making. It u
 
 **Video demonstrating AI parsing:**
 
-
-https://github.com/user-attachments/assets/8282f67f-a788-4c1b-b991-53bec60ec45e
+https://github.com/user-attachments/assets/e3e8c9d2-46d3-40eb-9c73-fe9516de6858
 
 
 #### Problem
