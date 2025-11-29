@@ -13,7 +13,7 @@
 
 ### 1. Personal Budgeting & Forecasting
 
-Staying on top of personal spending, while important for financial responsibility, is notoriously difficult. The common approach of scrolling through past transactions to roughly gauge 'normal' spending is simple but lacks reliability. Large infrequent spending behaviours such as purchasing consumer durables and sales-driven bulk buying distort the picture, while hidden expenses such as annual subscriptions are easy to miss. Spreadsheets and budgeting apps, though powerful, demand tedious maintenance.
+Staying on top of personal spending is important for financial responsibility, yet notoriously difficult. The common approach of scrolling through transaction history to gauge future cashflow is simple but unreliable. Large irregular purchases, like consumer durables or sales-driven bulk buying, can skew perceptions of 'normal' spending, while hidden expenses like annual subscriptions are easily missed. Spreadsheets and budgeting apps offer a powerful, data-driven alternative, but require tedious maintenance.
 
 I built a system designed for seamless tracking and better decision-making. It uses AI to parse raw text into structured data, and sort expenses into three distinct type: Recurring (Periodic), Capital (CapEx), and General (Run Rate). This segmentation enables tailored analytical logic, unlocking a diverse range of capabilities such as inventory tracking and cash flow forecasting. Ultimately, automation and this simple yet robust logic streamlines the tracking and analytics process, empowering me to make spending decisions with foresight and confidence.
 
